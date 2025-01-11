@@ -12,7 +12,7 @@ fun main() {
 
     print("Entrez votre nom : ")
     val userName = readLine().orEmpty()
-    println(" salut😊 $userName, prêt pour le quiz ? 🚀")
+    println(" salut😊 $userName, prêt pour le quiz ? ")
 
     // Sélection du domaine
     val domains = listOf("Mathématiques", "Science", "Histoire", "Géographie")
